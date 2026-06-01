@@ -1,13 +1,13 @@
-package com.uninassau.ateltica;
+package com.uninassau.atletica;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AtelticaApplication {
+public class AtleticaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AtelticaApplication.class, args);
+		SpringApplication.run(AtleticaApplication.class, args);
 	}
 
 }

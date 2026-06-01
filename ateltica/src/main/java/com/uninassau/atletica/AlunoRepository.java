@@ -1,4 +1,4 @@
-package com.uninassau.ateltica;
+package com.uninassau.atletica;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
